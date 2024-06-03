@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wd79YSMUnoYp6p7wkYZHyUzlQQCFYbnZhJcT62PgkzLJCSeeIaKJA6/hFacZrsR5V8dsHBe8iNHSq88n5MuZcA==",
+  "success": true,
+  "projectFilePath": "/home/gr624_eshrso/RiderProjects/ConsoleApp2/ConsoleApp2/ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "/home/gr624_eshrso/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/gr624_eshrso/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/home/gr624_eshrso/.nuget/packages/npgsql/8.0.3/npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
